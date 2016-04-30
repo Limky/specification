@@ -1,12 +1,11 @@
-// README.md
-//This is the README file for the Hello-world project.
+
 
 #### 1.인적사항
 
 **이름:** 임 경 호 (Lim Kyeoung Ho)  
 **생년월일:**91 06 17  
 
-![Image](https://www.facebook.com/photo.php?fbid=159272551137504&set=a.121423384922421.1073741826.100011642794869&type=3)
+![Image](https://scontent.xx.fbcdn.net/v/t1.0-9/13133331_159272791137480_2076198251917202711_n.jpg?oh=b6bf53731e6b9294edfff3cfd06723d5&oe=57BB4BBF)
 
 
 
