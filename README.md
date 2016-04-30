@@ -22,7 +22,7 @@
 * IDE(Eclipse)
 
 3.2 웹 개발(Web Development)
-* Java 개발 프레임워크(MVC, Spring, MyBatis)
+* Java 개발 프레임워크(MVC, __Spring__, MyBatis)
 * DB 응용 개발(Oracle, Mysql, MS)
 * Server(Apache web server, Tomcat,Google App engine)
 
