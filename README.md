@@ -3,7 +3,7 @@
 
 #### 1.인적사항  
 
-  **이름:** 임경호 (Lim Kyeoung Ho)/닉네임:Limky
+  **이름:** 임경호 (Lim Kyeoung Ho)/닉네임:__Limky__
   
   **생년월일:**91 06 17  
 
