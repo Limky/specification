@@ -2,10 +2,10 @@
 
 #### 1.인적사항
 
-**이름:** 임 경 호 (Lim Kyeoung Ho)  
-**생년월일:**91 06 17  
+  **이름:** 임 경 호 (Lim Kyeoung Ho)  
+  **생년월일:**91 06 17  
 
-![Image](https://scontent.xx.fbcdn.net/v/t1.0-9/13133331_159272791137480_2076198251917202711_n.jpg?oh=b6bf53731e6b9294edfff3cfd06723d5&oe=57BB4BBF)
+  ![Image](https://scontent.xx.fbcdn.net/v/t1.0-9/13133331_159272791137480_2076198251917202711_n.jpg?oh=b6bf53731e6b9294edfff3cfd06723d5&oe=57BB4BBF)
 
 
 
