@@ -14,6 +14,34 @@
 | :---         |     :---:      |        :---:   |    :---:      | :---:       |  
 | 2011.2 | 2017.2 | 한성대학교   |컴퓨터공학부 | 3.9/4.5 |
 
+#### 3. 보유기술(Technical Skills)
+
+3.1  기초지식(Basics)
+* Programming Languages: C, C++, __Java__, Javascript, jQuery
+* Operating Systems: __Linux__,Unix
+* IDE(Eclipse)
+
+3.2 웹 개발(Web Development)
+* Java 개발 프레임워크(MVC, Spring, MyBatis)
+* DB 응용 개발(Oracle, Mysql, MS)
+* Server(Apache web server, Tomcat,Google App engine)
+
+3.3 소프트웨어 도구(Software Tools)
+* 소스코드관리(Git)
+* 빌드도구(Maven)
+
+3.4 학부 수강 과목(Course)
+* C, C++, JAVA -언어-
+* 컴퓨터 네트워크, 멀티미디어 통신, 소켓통신 -통신-
+* 알고리즘, 컴퓨터구조, 소프트웨어공학 -이론-
+* 데이터베이스 -DB-
+* 운영체제(Unix) -OS-
+* 가상현실, 3D그래픽&애니메이션, 영상처리 -멀티미디어-
+* 설계및테스트, UI/UX, 오픈소스 -IPP Internship course-
+* 스프링, 서버프로그래밍(JSP) -웹- 
+* 사회윤리, 사회철학, 종교와 철학, 대중문화와예술, 광고기획, 행복학, 현대생활과 통계학 -인문학-
+
+
 ####3.어학 및 자격증
 | 자격증명 | 발급일자  | 발급기관|점수| 
 | :---         |     :---:      |     :---:   |   :---:   | 
