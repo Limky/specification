@@ -30,12 +30,12 @@
 * IDE(Eclipse)
 
 3.2 웹 개발(Web Development)
-* Java 개발 프레임워크(MVC, Spring, MyBatis)
+* Java 개발 프레임워크(__MVC__, __Spring__, MyBatis)
 * DB 응용 개발(Oracle, Mysql, MS)
 * Server(Apache web server, Tomcat,Google App engine)
 
 3.3 소프트웨어 도구(Software Tools)
-* 소스코드관리(Git)
+* 소스코드관리(__Git__)
 * 빌드도구(Maven)
 
 3.4 학부 수강 과목(Course)
