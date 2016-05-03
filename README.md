@@ -37,7 +37,7 @@
 3.3 소프트웨어 도구(Software Tools)
 * 소스코드관리(__Git__)
 * 빌드도구(Maven)
-* 이슈관리(Trello)
+* 이슈&프로젝트관리(wiki,Trello)
 
 3.4 학부 수강 과목(Course)
 * ( 언어 ) C, C++, JAVA
