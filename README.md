@@ -85,9 +85,13 @@ github: https://github.com/Limky
 email: setupman82@gmail.com
 
 
-server side requirement
+server side requirement (back-end):
 linux + web server(Apache, Nginx) + web application server(tomcat) + db server(mysql)
 
+client side requirement (front-end):
+android, ios , html5/css/javascript 
+
+github
 
 
 
