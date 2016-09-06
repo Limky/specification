@@ -14,7 +14,7 @@
   
   **생년월일:**91.06.17  
 
-  ![Image](https://scontent.xx.fbcdn.net/v/t1.0-9/13133331_159272791137480_2076198251917202711_n.jpg?oh=b6bf53731e6b9294edfff3cfd06723d5&oe=57BB4BBF)
+  ![Image](https://scontent.xx.fbcdn.net/v/t1.0-9/13133331_159272791137480_2076198251917202711_n.jpg?oh=0816601df363fd828b6237df35ad7435&oe=58810CBF)
   
 ### 2.학력 사항(Education)  
 
