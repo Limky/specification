@@ -10,7 +10,7 @@
 
 ### 1.인적사항(Personal Information)  
 
-  **이름:** 임경호 (Lim Kyeoung Ho)
+  **이름:** 임경호 (Kyeoung Ho, Lim)
   
   **생년월일:**91.06.17  
 
@@ -83,7 +83,7 @@
 
 ###연락처(Contact)
 github: https://github.com/Limky  
-email: setupman82@gmail.com
+email: Limky@sqisoft.com
 
 
 server side requirement (back-end):
