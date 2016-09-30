@@ -46,7 +46,7 @@
 * 소스코드관리(__Git__, svn)
 * 빌드도구(Maven,Gradle)
 * 이슈&프로젝트관리(wiki,Trello,RedMine)
-* CI Jenkins
+* CI (Jenkins)
 
 3.4 학부 수강 과목(Course)
 * ( 언어 ) C, C++, JAVA
