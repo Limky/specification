@@ -43,7 +43,7 @@
 * 안드로이드 디스플레이 플랫폼 어플리케이션 개발
 
 3.4 소프트웨어 도구(Software Tools)
-* 소스코드관리(__Git__, svn)
+* 소스코드관리(__Git__,__Bitbucket__, svn)
 * 빌드도구(Maven,Gradle)
 * 이슈&프로젝트관리(wiki,Trello,RedMine)
 * CI (Jenkins)
