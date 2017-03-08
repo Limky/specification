@@ -102,7 +102,7 @@ github: https://github.com/Limky
 email: Limky@sqisoft.com  
 blog :http://limky.me
 
-
+<!--
 server side requirement (back-end):
 linux + web server(Apache, Nginx) + web application server(tomcat) + db server(mysql)
 
@@ -110,6 +110,6 @@ client side requirement (front-end):
 android, ios , html5/css/javascript 
 
 github
-
+-->
 
 
