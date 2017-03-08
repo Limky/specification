@@ -99,8 +99,8 @@
 
 ###연락처(Contact)
 github: https://github.com/Limky  
-email: Limky@sqisoft.com
-blog :(http://limky.me) 
+email: Limky@sqisoft.com  
+blog :http://limky.me
 
 
 server side requirement (back-end):
