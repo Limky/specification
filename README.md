@@ -97,7 +97,7 @@
 | 유니클로 입사 | 고객 서비스 및 전산물류 집약    | 유니클로     |2013.10~2014.02  |
 | 군특별보직근무| 선거우편물,개인우편물 관리 | 우정사업본부   |2012,01~2013.10  |
 
-### 연락처(Contact)
+### 6.연락처(Contact)
 github: https://github.com/Limky  
 email: Limky@sqisoft.com  
 blog :http://limky.me
