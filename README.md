@@ -100,7 +100,7 @@
 ### 6.연락처(Contact)
 github: https://github.com/Limky  
 email: Limky@sqisoft.com  
-blog :http://limky.me
+blog :old -> http://limky.me , new -> http://limkydev.tistory.com
 
 <!--
 server side requirement (back-end):
