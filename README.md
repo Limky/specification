@@ -16,9 +16,9 @@
 
   **이름:** 임경호 (Kyeoung Ho, Lim)
   
-  **생년월일:**91.06.17  
-
-  ![Image](https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/13133331_159272791137480_2076198251917202711_n.jpg?oh=c5f4f142980ebec3ef856afa9a919afe&oe=5946CDBF)
+  **생년월일:** 91.06.17  
+  
+  ![Image](https://tistory4.daumcdn.net/tistory/2756316/attach/b34b50a0a9c449a881255164d12caf4c)
   
 ### 2.학력 사항(Education)  
 
